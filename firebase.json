@@ -34,7 +34,7 @@
       { "source": "/tutorials/low-level-html", "destination": "https://dart.dev/tutorials/web/low-level-html", "type": 301 },
       { "source": "/tutorials/low-level-html/add-elements", "destination": "https://dart.dev/tutorials/web/low-level-html/add-elements", "type": 301 },
       { "source": "/tutorials/low-level-html/connect-dart-html", "destination": "https://dart.dev/tutorials/web/low-level-html/connect-dart-html", "type": 301 },
-      { "source": "/tutorials/low-level-html/remove-elements", "destination": "https://dart.dev/tutorials/web/low-level-html/remove-elements", "type": 301 },
+      { "source": "/tutorials/low-level-html/remove-elements", "destination": "https://dart.dev/tutorials/web/low-level-html/remove-elements", "type": 301 }
     ],
     "ignore": [
       "firebase.json",
