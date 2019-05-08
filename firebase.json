@@ -4,6 +4,7 @@
     "cleanUrls": true,
     "trailingSlash": false,
     "redirects": [
+      { "source": "/", "destination": "https://dart.dev/web", "type": 301 },
       { "source": "/api", "destination": "https://angulardart.dev/api", "type": 301 },
       { "source": "/angular", "destination": "https://angulardart.dev/", "type": 301 },
       { "source": "/angular/api", "destination": "https://angulardart.dev/api?package=angular", "type": 301 },
