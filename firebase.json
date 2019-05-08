@@ -18,7 +18,7 @@
       { "source": "/dart-2", "destination": "https://dart.dev/web/dart-2", "type": 301 },
       { "source": "/faq", "destination": "https://dart.dev/faq", "type": 301 },
       { "source": "/guides/debugging", "destination": "https://dart.dev/web/debugging", "type": 301 },
-      { "source": "guides/web-programming", "destination": "https://dart.dev/web/libraries", "type": 301 },
+      { "source": "/guides/web-programming", "destination": "https://dart.dev/web/libraries", "type": 301 },
       { "source": "/search", "destination": "https://angulardart.dev/search", "type": 301 },
       { "source": "/terms", "destination": "https://angulardart.dev/terms", "type": 301 },
       { "source": "/tools", "destination": "https://dart.dev/tools", "type": 301 },
